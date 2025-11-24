@@ -97,11 +97,9 @@ After each major step, insights were recorded, such as:
 
 ---
 
-## 🚀 Future Work
+## 🏁 Conclusion
 
-- Build a **regression model** to predict insurance premiums  
-- Apply feature engineering for improved model performance  
-- Test advanced algorithms (Random Forest, XGBoost)
+The analysis reveals that lifestyle factors such as **smoking habits** and health indicators like **BMI** play a significant role in determining insurance charges. These findings support the hypothesis that medical premiums are closely aligned with underlying health risks. This exploratory analysis provides a strong foundation for developing a predictive model that can estimate insurance costs using key features such as **age**, **BMI**, and **smoker status**. Such a model can help insurance providers make more informed pricing decisions and improve risk assessment accuracy.
 
 ---
 ---
